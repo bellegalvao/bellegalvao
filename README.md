@@ -4,6 +4,8 @@
 
 Hey, I'm Isabelle Galvão. I'm UI / UX designer and  junior front-end dev 🎨💻
 
+🎓 I study Computer Science @ UFBA
+
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isabelle-galvao/)](https://www.linkedin.com/in/isabelle-galvao/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isabellecgalvao@gmail.com)](mailto:isabellecgalvao@gmail.com) [![Behance Badge](https://img.shields.io/badge/-Behance-blue?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/isabellegalvo)](https://www.behance.net/isabellegalvo)
 #### I have interest in:🚀
 + UI Design
@@ -18,6 +20,7 @@ Hey, I'm Isabelle Galvão. I'm UI / UX designer and  junior front-end dev 🎨�
 
 ### Tech & Tools Preference
 
+<img src="https://img.shields.io/badge/-Figma-563D7C?style=flat&logo=figma&logoColor=white">
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
