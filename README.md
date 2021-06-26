@@ -1,4 +1,4 @@
-### Hey Isabelle Galvão here 👋
+### Isabelle Galvão here 👋
 
 ---
 
